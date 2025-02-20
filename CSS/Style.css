@@ -50,7 +50,7 @@ a:hover{
     transition: 3s;
 }
 
-.Cabecalho {
+#Cabecalho {
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -58,7 +58,7 @@ a:hover{
 
 }
 
-.Btns {
+#Btns {
     width: 289px;
     display: flex;
     flex-direction: column;
